@@ -1,5 +1,5 @@
 # palindrome
-Function that identifies a palindrome words
+Function that identifies palindrome words
 
 * palindrome("eye") should return a boolean.
 * palindrome("eye") should return true.
